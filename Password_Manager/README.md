@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/VpntV6X/password-manager.png" alt="password-manager" border="0">
+
 
 ## PASSWORD MANAGER
 
@@ -12,8 +14,16 @@ Install on Windows: pip install pyperclip <br>
 Install on Linux/macOS: pip3 install pyperclip <br>
 
 ### Features
-<ul> Higly Interactive UI for all users</ul>
-<ul> Strong Password Generator</ul>
-<ul> Auto Copy the password </ul>
-<ul> Verify the details before saving </ul>
+<ol> Higly Interactive UI for all users</ol>
+<ol> Strong Password Generator</ol>
+<ol> Auto Copy the password </ol>
+<ol> Verify the details before saving </ol>
 
+## SCREENS
+Try to add with an empty field</br>
+<img src="https://i.ibb.co/rsxKRVC/password-manager-1.png" alt="password-manager-1" border="0">
+</br>
+Verification window </br>
+<img src="https://i.ibb.co/8z0MGdx/password-manager-2.png" alt="password-manager-2" border="0">
+
+#### -->Passwords are stored in the data.txt file 
